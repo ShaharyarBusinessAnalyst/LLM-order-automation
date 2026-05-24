@@ -1,4 +1,4 @@
-# 📦 LLM Order Automation Pipeline
+# LLM Order Automation Pipeline
 
 An end-to-end order processing pipeline that reads customer order emails, matches requested products against a 1,000+ SKU catalog via **Pinecone RAG**, auto-generates professional reply emails using **OpenAI**, and flags ambiguous matches for human review — deployed on **Azure Functions**.
 
