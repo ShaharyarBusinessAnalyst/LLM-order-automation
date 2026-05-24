@@ -1,0 +1,101 @@
+sku_id,name,category,description,unit_price,stock
+SP-001,Universal Lateral Positioner,Surgical Positioners,"Foam lateral positioner for surgical positioning, adjustable straps, adult size",107.96,168
+SP-002,Prone Positioning System,Surgical Positioners,"Full body prone positioner set with chest rolls and head support, radiolucent",244.65,194
+SP-003,Beach Chair Shoulder Positioner,Surgical Positioners,"Articulating beach chair positioner for shoulder arthroscopy, 400lb capacity",131.51,62
+SP-004,Lithotomy Leg Holder Set,Surgical Positioners,Pair of candy-cane lithotomy leg holders with universal OR table clamps,580.04,31
+SP-005,Pediatric Positioner Kit,Surgical Positioners,"Soft foam positioner set for pediatric patients, age 2-12, antimicrobial cover",87.59,144
+SP-006,Supine Hip Positioner,Surgical Positioners,Radiolucent hip positioner for supine total hip replacement procedures,41.54,113
+SP-007,Neurosurgery Horseshoe Headrest,Surgical Positioners,"Mayfield-compatible horseshoe headrest with gel padding, MRI conditional",197.56,28
+SP-008,Spine Positioner Frame,Surgical Positioners,"Wilson frame spine positioner for lumbar procedures, 500lb capacity",517.69,134
+SP-009,Kidney Rest Positioner,Surgical Positioners,"Inflatable kidney rest for lateral flank procedures, foot pump included",181.03,148
+SP-010,Cardiac Positioning Wedge Set,Surgical Positioners,"Set of 3 foam wedges for cardiac procedures, autoclavable covers",600.61,171
+GP-001,Heel Protector Gel Pad,Gel Pads,"Medical-grade silicone gel heel protector, reduces pressure ulcer risk, pair",199.07,112
+GP-002,Elbow Gel Pad,Gel Pads,"Antimicrobial gel elbow pad, universal size, washable cover",247.29,155
+GP-003,Sacral Gel Pad Large,Gel Pads,"Large sacral relief gel pad 18x16 inch, 2 inch gel depth",648.6,6
+GP-004,OR Table Gel Overlay,Gel Pads,"Full OR table gel overlay pad 72x20 inch, 1.5 inch medical gel",597.95,45
+GP-005,Wrist Rest Gel Pad,Gel Pads,"Ergonomic gel wrist pad for extended surgical procedures, pair",247.02,92
+GP-006,Pediatric Gel Overlay,Gel Pads,"Pediatric gel table pad 48x18 inch, soft gel formulation",814.27,60
+GP-007,Shoulder Gel Pad,Gel Pads,"Contoured shoulder gel pad for beach chair positioning, pair",100.35,91
+GP-008,Occiput Gel Donut,Gel Pads,"Gel donut headrest for supine procedures, reduces occipital pressure",95.76,102
+GP-009,Arm Board Gel Pad,Gel Pads,"Gel pad cover for surgical arm boards, universal fit, set of 2",519.11,93
+GP-010,Face Gel Cushion,Gel Pads,"Prone face cushion with gel inserts, multiple apertures for airway access",624.33,16
+SR-001,OR Safety Strap 2-inch,Straps & Restraints,"2-inch wide OR table safety strap with quick-release buckle, 10ft length",119.23,142
+SR-002,Arm Restraint Strap,Straps & Restraints,"Padded arm restraint strap with velcro closure, pair, adult size",80.8,101
+SR-003,Leg Holder Strap Set,Straps & Restraints,Set of 4 leg positioning straps with D-ring attachments,707.55,80
+SR-004,Lithotomy Strap,Straps & Restraints,"Padded lithotomy positioning strap, 3-inch wide, pair",754.35,163
+SR-005,Chest Restraint Strap,Straps & Restraints,"Diagonal chest safety strap for Trendelenburg positioning, adjustable",497.09,97
+SR-006,Pediatric Safety Strap,Straps & Restraints,"Soft pediatric OR safety strap, 1.5 inch, velcro closure",73.08,185
+SR-007,Shoulder Positioner Strap,Straps & Restraints,"Non-slip shoulder positioner strap for steep Trendelenburg, pair",205.3,174
+SR-008,Universal Table Strap,Straps & Restraints,"Universal OR table strap kit, 5 straps assorted sizes",837.66,79
+SR-009,Foam Padded Restraint,Straps & Restraints,"3-inch foam padded arm restraint, hook-and-loop closure, pair",738.51,64
+SR-010,Head Holder Strap,Straps & Restraints,Adjustable head and chin strap for neurosurgery positioning,247.11,102
+PR-001,Anti-Decubitus Foam Pad,Pressure Relief,"4-inch medical foam OR table pad, egg-crate surface, 72x20 inch",711.48,167
+PR-002,Visco-Elastic Overlay,Pressure Relief,"2-inch visco-elastic memory foam OR overlay, fluid-resistant cover",324.1,46
+PR-003,Sequential Compression Device,Pressure Relief,"Sequential compression device with bilateral leg sleeves, digital controller",574.6,58
+PR-004,TED Compression Stocking XL,Pressure Relief,"Thigh-high TED anti-embolism stockings, extra large, 6-pack",797.11,184
+PR-005,TED Compression Stocking M,Pressure Relief,"Thigh-high TED anti-embolism stockings, medium, 6-pack",74.62,170
+PR-006,TED Compression Stocking L,Pressure Relief,"Thigh-high TED anti-embolism stockings, large, 6-pack",157.9,167
+PR-007,Knee-High TED Stocking M,Pressure Relief,"Knee-high TED anti-embolism stockings, medium, 6-pack",219.42,191
+PR-008,Pressure Relief Bootie,Pressure Relief,"Foam pressure relief bootie for heel and ankle protection, pair",331.85,123
+PR-009,Operating Table Mattress,Pressure Relief,"3-layer OR table mattress with memory foam and gel top, standard size",589.62,168
+PR-010,Pressure Mapping System,Pressure Relief,Wireless pressure mapping mat for intraoperative pressure monitoring,586.65,61
+SA-001,Mayfield Skull Clamp,Surgical Accessories,"Three-pin Mayfield skull clamp for cranial surgery, titanium pins",206.26,19
+SA-002,Arm Board Padded,Surgical Accessories,"Padded surgical arm board with universal OR table attachment, adult",687.21,13
+SA-003,Stirrup Leg Holder,Surgical Accessories,"Allen-style stirrup leg holder with boot, pair, universal table mount",238.56,107
+SA-004,Traction Tower,Surgical Accessories,"Orthopedic traction tower for hip arthroscopy, lateral post included",777.47,59
+SA-005,IV Arm Board,Surgical Accessories,"Plastic disposable IV arm board with velcro strap, adult, 50-pack",746.77,150
+SA-006,OR Table Clamp Set,Surgical Accessories,"Universal OR table side rail clamp set, stainless steel, set of 4",192.54,85
+SA-007,Fracture Table Attachment,Surgical Accessories,Perineal post with gel pad for fracture table use,345.35,132
+SA-008,Bean Bag Positioner Large,Surgical Accessories,Large vacuum bean bag positioner 30x50 inch with pump,398.14,169
+SA-009,Bean Bag Positioner Small,Surgical Accessories,Small vacuum bean bag positioner 20x30 inch with pump,131.59,72
+SA-010,Carbon Fiber Arm Sled,Surgical Accessories,"Radiolucent carbon fiber arm sled for robotic surgery, pair",483.74,195
+IC-001,Surgical Drape Pack,Infection Control,"Disposable universal extremity drape pack, sterile, 10-pack",638.76,72
+IC-002,Positioning Cover Set,Infection Control,"Fluid-resistant positioning covers for foam positioners, 20-pack",764.68,114
+IC-003,Antimicrobial Positioner Sleeve,Infection Control,"Antimicrobial washable sleeve for surgical positioners, universal fit",317.27,107
+IC-004,Sterile Glove Size 7.5,Infection Control,"Sterile surgical gloves size 7.5, latex-free, 50-pair box",440.45,40
+IC-005,Sterile Glove Size 8.0,Infection Control,"Sterile surgical gloves size 8.0, latex-free, 50-pair box",646.08,28
+IC-006,OR Shoe Cover Pack,Infection Control,"Non-slip OR shoe covers, fluid-resistant, 100-pack",142.62,33
+IC-007,Surgical Cap Pack,Infection Control,"Bouffant surgical caps, one-size, 100-pack",676.39,45
+IC-008,Fluid Shield Mask,Infection Control,"Level 3 fluid shield surgical mask with eye shield, 25-pack",513.0,113
+IC-009,OR Surface Disinfectant,Infection Control,"EPA-approved OR surface disinfectant wipes, 200-count canister",333.65,103
+IC-010,Positioner Cleaning Kit,Infection Control,"Enzymatic cleaner concentrate for surgical positioners, 1 gallon",456.81,124
+IA-001,Radiolucent Arm Board,Imaging Accessories,"Carbon fiber radiolucent arm board for intraoperative imaging, adult",733.75,146
+IA-002,C-Arm Drape,Imaging Accessories,"Sterile C-arm fluoroscopy drape, 120x48 inch, 10-pack",583.04,7
+IA-003,Radiation Apron Lead-Free,Imaging Accessories,"Lead-free radiation protection apron, 0.5mm equivalent, size M",584.23,34
+IA-004,Thyroid Shield,Imaging Accessories,"Lead-free thyroid collar radiation shield, adjustable",641.98,142
+IA-005,Dosimeter Badge,Imaging Accessories,"Monthly radiation dosimeter badge, whole body, single unit",299.05,169
+IA-006,C-Arm Positioning Block,Imaging Accessories,"Radiolucent foam positioning block for C-arm procedures, set of 3",378.03,80
+IA-007,Lead Gloves Pair,Imaging Accessories,"0.5mm lead equivalent surgical radiation gloves, size M, pair",17.71,121
+IA-008,Radiation Barrier Screen,Imaging Accessories,"Mobile leaded glass radiation barrier screen, 36x48 inch window",746.34,189
+IA-009,Fluoroscopy Positioning Wedge,Imaging Accessories,"Radiolucent fluoroscopy wedge set, 4 angles, carbon fiber",826.53,72
+IA-010,Intraoperative Ultrasound Drape,Imaging Accessories,"Sterile intraoperative ultrasound probe drape, 10-pack",164.17,200
+WS-001,Forced Air Warming Blanket Adult,Warming Systems,"Full body forced-air warming blanket, adult, single use, 10-pack",741.88,32
+WS-002,Warming Blanket Pediatric,Warming Systems,"Pediatric forced-air warming blanket, single use, 10-pack",717.79,81
+WS-003,Underbody Warming Blanket,Warming Systems,"Underbody forced-air warming blanket for OR table, 10-pack",523.49,134
+WS-004,Fluid Warming Set,Warming Systems,"In-line IV fluid warming set, compatible with major warmers, 10-pack",327.22,44
+WS-005,Warming Cabinet,Warming Systems,"Medical warming cabinet for blankets and fluids, 16 cubic foot",465.38,46
+WS-006,Hypothermia Prevention Kit,Warming Systems,"Intraoperative hypothermia prevention kit with blanket and hat, 10-pack",781.94,140
+WS-007,Temperature Probe Esophageal,Warming Systems,"Disposable esophageal temperature probe, adult, 10-pack",285.67,158
+WS-008,Skin Temperature Sensor,Warming Systems,"Disposable skin temperature sensor for OR monitoring, 20-pack",108.41,9
+WS-009,Warm Water Blanket,Warming Systems,Circulating warm water blanket system with pad and controller,748.73,97
+WS-010,Resistive Warming Blanket,Warming Systems,"Electric resistive warming blanket, reusable, machine washable",214.94,83
+PT-001,Air Transfer Mattress,Patient Transfer,"Lateral air transfer mattress for patient transfers, 400lb capacity",748.14,66
+PT-002,Transfer Board Large,Patient Transfer,"Large sliding transfer board 72x18 inch, 600lb capacity",86.52,25
+PT-003,Transfer Sheet Set,Patient Transfer,"Low-friction patient transfer sheet set, reusable, 3-pack",696.38,129
+PT-004,Patient Roller,Patient Transfer,"Patient positioning roller for lateral transfers, foam, pair",459.81,199
+PT-005,Hover Mat,Patient Transfer,"Disposable hover transfer mat, single patient use, 5-pack",122.21,37
+PT-006,Gait Belt,Patient Transfer,"Patient transfer gait belt with quick-release buckle, 60 inch",805.62,126
+PT-007,Transfer Sling Set,Patient Transfer,"Bariatric patient transfer sling set, 4 loops, 600lb rated",236.32,47
+PT-008,Stretcher Pad Cover,Patient Transfer,"Fluid-resistant stretcher pad cover, standard size, 10-pack",368.32,160
+PT-009,OR Table Positioning Sheet,Patient Transfer,"Low-friction OR table repositioning sheet, single use, 10-pack",790.64,59
+PT-010,Draw Sheet Pack,Patient Transfer,"Cotton-blend draw sheets for patient positioning, 12-pack",624.49,198
+SI-001,Urology Drape Set,Specialty Items,"Sterile urology procedure drape set with leg bags, 5-pack",610.31,56
+SI-002,Arthroscopy Leg Positioner,Specialty Items,Arthroscopy leg holder with boot for knee procedures,845.95,107
+SI-003,Spinal Fusion Positioner,Specialty Items,Jackson table spinal fusion frame with chest and iliac pads,326.81,171
+SI-004,Bariatric Positioner Set,Specialty Items,"Bariatric surgical positioner set, 600lb rated, all components",391.99,137
+SI-005,Neonatal Positioning Aid,Specialty Items,"Neonatal gel positioning aid set for NICU, washable covers",202.62,68
+SI-006,Eye Surgery Head Rest,Specialty Items,Ophthalmic surgery head rest with adjustable positioning,32.56,91
+SI-007,ENT Procedure Headrest,Specialty Items,ENT/otolaryngology procedure headrest with gel pad,207.15,146
+SI-008,Robotic Surgery Arm Sled,Specialty Items,"Da Vinci compatible arm sled, radiolucent, pair",21.0,61
+SI-009,Vascular Surgery Positioner,Specialty Items,Vascular surgery leg positioner set with adjustable supports,541.97,186
+SI-010,Obstetric Positioning Wedge,Specialty Items,"Left lateral tilt obstetric wedge, 15 degree, foam",71.28,63
